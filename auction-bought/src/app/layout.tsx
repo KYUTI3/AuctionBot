@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'AuctionBot',
+  title: 'HoneyBox',
   description: 'Made with Love by ProGamers',
 }
 
