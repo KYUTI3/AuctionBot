@@ -16,7 +16,7 @@ const DynamicComponent = dynamic(() => import('../app/components/form'), {
 const Home: React.FC = () => {
   const CardProps: CardProps = {
     title: 'About',
-    text: 'AuctionBot is a safe way to search for coupons!',
+    text: '',
   };
 
   return (
@@ -34,7 +34,7 @@ const Home: React.FC = () => {
 
     <div className={styles.Card}> 
     
-   <Card title="About" text="AuctionBot is the best way to search for coupons without the fear of properitary software!" />
+   <Card title="About" text="HoneyBox is the best way to search for coupons without the fear of properitary software!" />
     </div>
 
      </main> 
