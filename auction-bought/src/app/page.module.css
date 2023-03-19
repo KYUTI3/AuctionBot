@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@800;600;600&display=swap');
+
+.main{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding: 1rem;
+min-height: 100vh;
+font-family: 'Dosis', sans-serif;
+background-color: #EED070;
+color: #000;
+}
+
+.form{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+  min-height: 100vh;
+
+}
+
+
+
+
